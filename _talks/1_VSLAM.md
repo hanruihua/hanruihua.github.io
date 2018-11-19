@@ -14,4 +14,4 @@ location: "Shen Zhen, China"
 - Responsibilities: Developing the algorithm for localization of the bus with binocular camera based on ORB SLAM and filter algorithm such as EKF, PF.
 
 - The following video demonstrates the process of binocular video to localise the bus based on ORB-SLAM.
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/zp-xrcUwIvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/paoX2BtT4HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
