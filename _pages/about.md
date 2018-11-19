@@ -14,7 +14,7 @@ redirect_from:
 
 * My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
 
-* My research interests lie in the general area of Robotics, including the mechanical design, control algorithm and unmanned navigation   particularly in robot localization, as well as their applications in , generative modeling, natural language understanding and multi-agent systems.
+* My research interests lie in the general area of Robotics, including the mechanical design, control algorithm, robot localization and mapping. My current research area focuses on robot localization in featureless environment based on filter algorithm, as well as their applications in self-driving car.
 
 
 
