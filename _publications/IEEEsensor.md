@@ -7,7 +7,7 @@ date: 2018-10-23
 citation: 'Shuai Zhang, <b>Ruihua Han</b>,  Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Accepted by IEEEsensor 2018.</i>'
 ---
 
-[[PDF]](files/MobileRobot_Localization.pdf)
+[[PDF]](MobileRobot_Localization.pdf)
 
 ## Abstract
-This paper aims to bring a new perspective for understanding GANs, by delving deeply into the key factors that lead to the failure and success in training of GANs. Specifically, (i) we study the value surface of the optimal discriminative function, from which we show that the fundamental source of failure in training of GANs stems from the unwarranted gradient direction; (ii) we show that Lipschitz constraint is not always necessary for evaluating Wasserstein distance, and we further demonstrate that, without Lipschitz constraint, Wasserstein GAN may also fail in the same way as other GANs; (iii) we theoretically show that Lipschitz constraint is generally a powerful tool to guarantee meaningful gradient directions and we further propose a generalized family of GAN formulations based on Lipschitz constraint, where Wasserstein GAN is a special case.
+In this paper, we propose an improved UWB based indoor localization system using Bayesian filtering techniques. The system contains two key components: (1) miniaturized, high updating rate and highly reconfigurable UWB sensors with a linear regression model to calibrate range measurement errors; (2) a set of Bayesian filters which can improve the localization precision by utilizing the spatial correlation between the stationary UWB base stations and the mobile UWB station. Furthermore, a novel measurement transform is proposed to reduce the computational complexity. Experiments are performed in an indoor environment with the ground truth obtained by the motion capture system to validate and evaluate the proposed indoor localization system.
