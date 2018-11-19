@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han ruihua"
+title                    : "Ruihua Han "
 title_separator          : "-"
-name                     : &name "Han ruihua"
+name                     : &name "Ruihua Han"
 description              : &description "Research Assistant, Department of Computer Science and Engineering, Southern University of Science and Technology"
 url                      : https://hanruihua.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,9 @@ author:
   bio              : "Research Assistant, Department of Computer Science and Engineering, Southern University of Science and Technology"
   location         : "ShenZhen, Guangdong, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=BMuEK90AAAAJ&hl=en"
-  email            : "hanrh@mail.sustc.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?user=BMuEK90AAAAJ&hl=en"
+  email            : "hanruihua@stu.xmu.edu.cn"
+  phone            : "18576494639"
   uri              : 
   bitbucket        :
   codepen          :
