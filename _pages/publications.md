@@ -23,7 +23,7 @@ Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng
 
 ## Sensor
 
-<b>[Design of a tri-axial micro piezoelectric accelerometer](http://hanruihua.info/publications/RLSGAAAI19)</b><br>
+<b>[Design of a tri-axial micro piezoelectric accelerometer](http://http://hanruihua.info/publications/RLSGAAAI19)</b><br>
 <b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Piezoelectricity, Acoustic Waves, and Device Applications.</i>
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
