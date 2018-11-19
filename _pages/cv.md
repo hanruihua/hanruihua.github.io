@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Curriculum Vitae [PDF]](CV.pdf)
+[Click to View My Curriculum Vitae [PDF]](https://hanruihua.info/files/ruihuahan_cv.pdf)
 
 
 
