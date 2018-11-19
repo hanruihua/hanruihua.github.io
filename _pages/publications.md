@@ -6,7 +6,7 @@ author_profile: true
 
 ## Localization
 
-<b>[Decentralized Cooperative Multi-Robot Localization with EKF](http://lantaoyu.com/publications/CoT)</b> <br>
+<b>[Decentralized Cooperative Multi-Robot Localization with EKF](Multirobot_localization)</b> <br>
 <b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>submitted to ICRA 2019.</i>
 
 <b>[Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization](http://lantaoyu.com/publications/GanGradient)</b> <br>
