@@ -6,16 +6,15 @@ author_profile: true
 
 ## Localization
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>submitted to ICRA 2019.</i>
+<b>[Decentralized Cooperative Multi-Robot Localization with EKF](http://lantaoyu.com/publications/CoT)</b> <br>
+<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>submitted to ICRA 2019.</i>
 
-<b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
-
+<b>[Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization](http://lantaoyu.com/publications/GanGradient)</b> <br>
+Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Accepted by IEEE sensor 2018.</i>
 
 ## Sensor
 
-<b>[Design of a tri-axial micro piezoelectric accelerometer](http:://http://hanruihua.info/publications/RLSGAAAI19)</b><br>
+<b>[Design of a tri-axial micro piezoelectric accelerometer](hanruihua.info/publications/RLSGAAAI19)</b><br>
 <b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Piezoelectricity, Acoustic Waves, and Device Applications.</i>
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
