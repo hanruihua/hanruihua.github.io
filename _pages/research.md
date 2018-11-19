@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## navigation of self-driving bus on road
+## Navigation of Self-driving Bus on Road
 <!--[self-driving bus](https://hanruihua.info/images/self_driving.png)-->
 - This research aim at developing the self-driving system for the bus with exteroceptive sensors including LIDARs and cameras to perform autonomous navigation on the road. 
 
