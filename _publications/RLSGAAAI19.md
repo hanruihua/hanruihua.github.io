@@ -1,10 +1,10 @@
 ---
-title: "Deep Reinforcement Learning for Green Security Games with Real-Time Information"
+title: "Design of a tri-axial micro piezoelectric accelerometer"
 collection: publications
 permalink: /publications/RLSGAAAI19
-venue: "The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19)"
-date: 2019-2-1
-citation: 'Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang. <i>The Thirty-Third AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2019</b>.'
+venue: "Symposium on Piezoelectricity, Acoustic Waves, and Device Applications (SPAWDA)"
+date: 2016-2-1
+citation: '<b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Symposium on Piezoelectricity, Acoustic Waves, and Device Applications</i>.'
 ---  
 [[PDF]](https://arxiv.org/pdf/1811.02483.pdf)
 ## Abstract
