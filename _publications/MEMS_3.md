@@ -2,7 +2,7 @@
 title: "Analytical and finite element analysis of a new tri-axial piezoelectric accelerometer"
 collection: publications
 permalink: /publications/MEMS_3
-venue: "Symposium on Piezoelectricity, Acoustic Waves and Device Applications (SPAWDA)"
+venue: "IEEE SPAWDA 2016"
 date: 2016-10-24
 citation: 'Mahui Xu, Jianyan Wang, <b>Ruihua Han</b>, Hui Zhou, Hang Guo. <i>Symposium on Piezoelectricity, Acoustic Waves and Device Applications</i>.'
 ---  
