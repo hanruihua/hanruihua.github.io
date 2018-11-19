@@ -7,23 +7,15 @@ author_profile: true
 ## Localization
 
 <b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
+Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>submitted to ICRA 2019.</i>
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
 
-<b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
-<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu. <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
-
-<b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
-Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b> <span style="color:red">Best Paper Award Honorable Mention</span> </b>
-
-<b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
-<b>Lantao Yu\*</b>, Xuejian Wang\*(equal contribution), Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang. <i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
 
 ## Sensor
 
-<b>[Design of a tri-axial micro piezoelectric accelerometer](http://http://hanruihua.info/publications/RLSGAAAI19)</b><br>
+<b>[Design of a tri-axial micro piezoelectric accelerometer](http://http:://hanruihua.info/publications/RLSGAAAI19)</b><br>
 <b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Piezoelectricity, Acoustic Waves, and Device Applications.</i>
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
