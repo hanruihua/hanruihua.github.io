@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Ruihua Han (韩瑞华)"
-permalink: /cv
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

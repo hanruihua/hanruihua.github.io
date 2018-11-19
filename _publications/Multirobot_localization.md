@@ -2,7 +2,7 @@
 title: "Decentralized Cooperative Multi-Robot Localization with EKF"
 collection: publications
 permalink: /publications/Multirobot_localization
-venue: "ArXiv 2018"
+venue: "ArXiv"
 date: 2018-11-19
 citation: '<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>submitted to ICRA 2019.</i>'
 ---
