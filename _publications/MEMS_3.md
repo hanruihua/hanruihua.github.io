@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MEMS_3
 venue: "Symposium on Piezoelectricity, Acoustic Waves and Device Applications (SPAWDA)"
 date: 2016-10-24
-citation: 'Mahui Xu, Jianyan Wang, <b>Ruihua Han</b>, Hui Zhou, Hang Guo. <i>Symposium on Piezoelectricity, Acoustic Waves, and Device Applications</i>.'
+citation: 'Mahui Xu, Jianyan Wang, <b>Ruihua Han</b>, Hui Zhou, Hang Guo. <i>Symposium on Piezoelectricity, Acoustic Waves and Device Applications</i>.'
 ---  
 [[PDF]](MEMS_3.pdf) 
 
