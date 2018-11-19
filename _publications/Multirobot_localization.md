@@ -3,11 +3,10 @@ title: "Decentralized Cooperative Multi-Robot Localization with EKF"
 collection: publications
 permalink: /publications/CoT
 venue: "ArXiv 2018"
-date: 2018-11-20
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>submitted to ICRA 2019.</i>'
+date: 2018-11-19
+citation: '<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>submitted to ICRA 2019.</i>'
 ---
-[[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
 
 
 ## Abstract
-We propose Cooperative Training (CoT) for training generative models that measure a tractable density function for target data. CoT coordinately trains a generator G and an auxiliary predictive mediator M. The training target of M is to estimate a mixture density of the learned distribution G and the target distribution P, and that of G is to minimize the Jensen-Shannon divergence estimated through M. CoT achieves independent success without the necessity of pre-training via Maximum Likelihood Estimation or involving high-variance algorithms like REINFORCE. This low-variance algorithm is theoretically proved to be unbiased for both generative and predictive tasks. We also theoretically and empirically show the superiority of CoT over most previous algorithms, in terms of generative quality and diversity, predictive generalization ability and computational cost.
+Multi-robot localization has been a critical problem for robots performing complex tasks cooperatively. In this paper, we propose a decentralized approach to localize a group of robots in a large featureless environment. The proposed approach only requires that at least one robot remains stationary as a temporary landmark during a certain period of time. The novelty of our approach is threefold: (1) developing a decentralized scheme that each robot calculates their own state and only stores the latest one to reduce storage and computational cost; (2) developing an efficient localization algorithm through the extended Kalman filter (EKF) that only uses observations of relative pose to estimate the robot positions; (3) developing a scheme has less requirements on landmarks and more robustness against insufficient observations. Various simulations and experiments using five robots equipped with relative pose-measurement sensors are performed to validate the superior performance of our approach.
