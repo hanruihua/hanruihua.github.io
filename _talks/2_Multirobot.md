@@ -1,10 +1,10 @@
 ---
-title: "Navigation of Self-driving Bus on Road"
-collection: research
+title: "Multi-Robot Localization in Featureless Environment"
+collection: talks
 type: "research"
-permalink: /research/VSLAM
+permalink: /talks/VSLAM
 venue: "Southern University of Science and Technology"
-date: 2017-08-15
+date: 2018-09-23
 location: "Shen Zhen, China"
 ---
 
