@@ -12,6 +12,6 @@ author_profile: true
 
 - Responsibilities: Developing the algorithm for localization of the bus with binocular camera based on ORB SLAM and filter algorithm such as EKF, PF.
 
-<iframe height=498 width=510 src="https://hanruihua.info/demo/ORBSLAM.MP4" frameborder=0 allowfullscreen></iframe>
+<iframe height=300 width=700 src="https://hanruihua.info/demo/ORBSLAM.MP4" frameborder=0 allowfullscreen></iframe>
 
 ## navigation of self-driving bus on road
