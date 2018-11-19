@@ -14,7 +14,7 @@ Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Accepte
 
 ## Sensor
 
-<b>[Design of a tri-axial micro piezoelectric accelerometer](hanruihua.info/publications/RLSGAAAI19)</b><br>
+<b>[Design of a tri-axial micro piezoelectric accelerometer](RLSGAAAI19)</b><br>
 <b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Piezoelectricity, Acoustic Waves, and Device Applications.</i>
 
 <b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>

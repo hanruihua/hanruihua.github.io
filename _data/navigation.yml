@@ -9,7 +9,7 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  - title: "Talks"
+  - title: "Competition"
     url: /talks/    
 
   # - title: "Teaching"
@@ -18,8 +18,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  #- title: "Blogs"
+   # url: /year-archive/
     
   - title: "Contact"
     url: /contact/  
