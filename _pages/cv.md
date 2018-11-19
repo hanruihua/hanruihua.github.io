@@ -11,7 +11,6 @@ redirect_from:
 
 [Click to View My Curriculum Vitae [PDF]](CV.pdf)
 
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
 # Ruihua Han
 
 ## Research assistant in the Department of Computer Science and Engineering
