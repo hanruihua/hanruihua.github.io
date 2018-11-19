@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Han ruihua"
 title_separator          : "-"
 name                     : &name "Han ruihua"
-description              : &description "PhD student, Computer Science Department, Stanford University"
+description              : &description "Research Assistant, Department of Computer Science and Engineering, Southern University of Science and Technology"
 url                      : https://hanruihua.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanruihua.github.io"
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "PhD student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Han Ruihua"
+  avatar           : "hanruihua.jpg"
+  bio              : "Research Assistant, Department of Computer Science and Engineering, Southern University of Science and Technology"
+  location         : "ShenZhen, Guangdong, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=BMuEK90AAAAJ&hl=en"
+  email            : "hanrh@mail.sustc.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
