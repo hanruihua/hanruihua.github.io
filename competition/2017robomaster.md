@@ -1,11 +1,9 @@
 ---
-title: "Design of Micro Piezoelectric Accelerator"
+title: "2017 RoboMaster Robotics Competition"
 collection: competition
-during: "from 09/2016 to 09/2017"
-type: "Members"
 permalink: /competition/2017robomaster
-venue: "<b>Ruihua Han</b>, Hui Zhou and Mahui Xu"
 ---
+from 09/2016 to 09/2017
 
 - This research aims to design an accelerator which can detect the charge generated from the piezoelectric material by the vibration of the mass to calculate the corresponding acceleration.
 - Responsibilities: Optimizing the detailed size of the model to obtain a better performance by theoretical derivation and simulation with ANSYS
