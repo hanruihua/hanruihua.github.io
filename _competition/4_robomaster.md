@@ -1,6 +1,6 @@
 ---
 title: "2017 robomaster"
-collection: talks
+collection: competition
 during: "from 09/2016 to 07/2017"
 type: "captain"
 permalink: /competition/4_robomaster
