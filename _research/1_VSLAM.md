@@ -1,8 +1,8 @@
 ---
 title: "Navigation of Self-driving Bus on Road"
-collection: research
+collection: talks
 type: "research"
-permalink: /research/1_VSLAM
+permalink: /research/VSLAM
 venue: "Southern University of Science and Technology"
 date: 2017-08-15
 location: "Shen Zhen, China"
