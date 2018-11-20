@@ -7,18 +7,20 @@ author_profile: true
 ## RoboMaster Robotics Competition [[Official Website]](https://www.robomaster.com/en-US)
 
 <b>[2017 RoboMaster Robotics Competition](https://hanruihua.info/competition/2017robomaster)</b> <br>
-<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>National Third prize</i> 
 
-<b>[Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization](IEEEsensor)</b> <br>
-Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Accepted by <b>IEEE sensor 2018</b>.</i>
+- Led a robotics team, and independently developed and produced a variety of robots to participate in a large-scale competition.
+- Responsibilities: Captain of the team, flight control algorithm based on ROS.
 
-## Robocon
+<b>[2016 RoboMaster Robotics Competition](https://hanruihua.info/competition/2016robomaster)</b> <br>
 
-<b>[Design of a tri-axial micro piezoelectric accelerometer](MEMS_1)</b><br>
-<b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Published in 2016 Symposium on Piezoelectricity, Acoustic Waves and Device Applications .</i> <b>SPAWDA IEEE, 2016</b>
+- Led a robotics team, and independently developed and produced a variety of robots to participate in a large-scale competition.
+- Responsibilities: control algorithm and data processing based on STM32. 
 
-<b>[Study of a piezoelectric accelerometer based on d33 mode](MEMS_2)</b><br>
-Hui Zhou, <b>Ruihua Han</b>, Mahui Xu, Hang Guo. <i>Published in 2016 Symposium on Piezoelectricity, Acoustic Waves and Device Applications.</i> <b>SPAWDA IEEE, 2016</b>
+## Robocon [[Official Website]](http://www.cnrobocon.net/#/)
 
-<b>[Analytical and finite element analysis of a new tri-axial piezoelectric accelerometer](MEMS_3)</b><br>
-Mahui Xu, Jianyan Wang, <b>Ruihua Han</b>, Hui Zhou, Hang Guo. <i>Published in 2016 Symposium on Piezoelectricity, Acoustic Waves and Device Applications.</i>. <b>SPAWDA IEEE, 2016</b>
+<b>[2015 Robocon Robotics Competition](https://hanruihua.info/competition/2016robomaster)</b> <br>
+
+- Led a robotics team, and independently developed and produced a variety of robots to participate in a large-scale competition.
+- Responsibilities: control algorithm and data processing based on STM32. 
+
+
