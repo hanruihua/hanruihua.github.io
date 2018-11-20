@@ -6,3 +6,6 @@ type: "Members"
 permalink: /talks/3_Pump
 venue: "<b>Ruihua Han</b>"
 ---
+
+- Developed an ultrasound pump model based on piezoelectric material which can generate a traveling wave to drive fluid when an AC voltage is applied.
+- Responsibilities:  theoretical derivation, ANSYS simulation. 
