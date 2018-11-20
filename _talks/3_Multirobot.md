@@ -1,5 +1,5 @@
 ---
-title: "Multi-Robot Localization in Featureless Environment"
+title: "<font color="#0000dd">Multi-Robot Localization in Featureless Environment</font><br />"
 collection: talks
 during: "from 04/2018 to present"
 type: "Members"
