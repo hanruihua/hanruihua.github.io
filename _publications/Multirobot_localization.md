@@ -1,5 +1,6 @@
 ---
 title: "Decentralized Cooperative Multi-Robot Localization with EKF"
+type: Submitted
 collection: publications
 permalink: /publications/Multirobot_localization
 venue: "ArXiv"
