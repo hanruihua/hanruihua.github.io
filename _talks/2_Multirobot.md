@@ -1,16 +1,15 @@
 ---
 title: "Multi-Robot Localization in Featureless Environment"
 collection: talks
-during: "from 09/2018 to 10/2018"
+during: "from 04/2018 to present"
 type: "Members"
 permalink: /talks/2_Multirobot
 venue: "<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao"
-location: ""
 ---
 
 <!--[self-driving bus](https://hanruihua.info/images/self_driving.png)-->
-- This research aim at developing the self-driving system for the bus with exteroceptive sensors including LIDARs and cameras to perform autonomous navigation on the road. 
-- Responsibilities: Developing the algorithm for localization of the bus with binocular camera based on ORB SLAM and filter algorithm such as EKF, PF.
+- This research aim to localise a group of robots by the relative observation between two robots in featureless environment where has no fixed landmark
+- Responsibilities: Developing the decentralized algorithm based on EKF which fusing the odometry and relative observation that derived from the camera to perform the cooperative localization.                 
 
-- The following video demonstrates the process of binocular video to localise the bus based on ORB-SLAM.
+- The following video demonstrates the experiment in our lab.
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/zp-xrcUwIvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
