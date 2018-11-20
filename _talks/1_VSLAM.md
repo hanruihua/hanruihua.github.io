@@ -4,7 +4,7 @@ collection: talks
 type: "talks"
 permalink: /talks/1_VSLAM
 venue: "Shuai Zhang, <b>Ruihua Han</b>"
-date: 2017-2018
+date: 2018-10-01
 location: "Shen Zhen, China"
 ---
 
