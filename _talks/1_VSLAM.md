@@ -1,9 +1,9 @@
 ---
 title: "Navigation of Self-driving Bus on Road"
 collection: talks
-type: "members:"
+type: "Members"
 permalink: /talks/1_VSLAM
-venue: "Shuai Zhang, <b>Ruihua Han</b>" 
+venue: "Shuai Zhang, <b>Ruihua Han</b> and Qi Hao" 
 location: ""
 ---
 

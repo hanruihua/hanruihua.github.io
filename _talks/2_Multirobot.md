@@ -1,13 +1,12 @@
 ---
 title: "Multi-Robot Localization in Featureless Environment"
 collection: talks
-type: "research"
-permalink: /talks/VSLAM
-venue: "Southern University of Science and Technology"
-date: 2018-09-20
-location: "Shen Zhen, China"
+type: "Members"
+permalink: /talks/2_Multirobot
+venue: "<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao"
+during:"from 09/2018 to 10/2018"
+location: ""
 ---
-
 
 <!--[self-driving bus](https://hanruihua.info/images/self_driving.png)-->
 - This research aim at developing the self-driving system for the bus with exteroceptive sensors including LIDARs and cameras to perform autonomous navigation on the road. 
