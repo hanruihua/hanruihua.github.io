@@ -3,8 +3,7 @@ title: "Navigation of Self-driving Bus on Road"
 collection: talks
 type: "talks"
 permalink: /talks/1_VSLAM
-venue: "Shuai Zhang, <b>Ruihua Han</b>"
-date: 
+venue: "Shuai Zhang, <b>Ruihua Han</b>" 
 location: ""
 ---
 
