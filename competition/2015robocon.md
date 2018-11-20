@@ -7,8 +7,8 @@ permalink: /competition/robomaster
 venue: "<b>Ruihua Han</b>, Hui Zhou and Mahui Xu"
 ---
 
-- This research aims to design an accelerator which can detect the charge generated from the piezoelectric material by the vibration of the mass to calculate the corresponding acceleration.
-- Responsibilities: Optimizing the detailed size of the model to obtain a better performance by theoretical derivation and simulation with ANSYS
+- This competition requires students to build a badminton robot which can play badminton with other robots built by other universities
+- Responsibilities: Designed and built the mechanical structure of the robot and programmed the code to control the brushless motor. 
 
-- The following figure depicts the distribution of the charge in the accelerator model when applied a accelerated speed on the mass. 
+- The performence of the robot is shown in the following video 
 ![Simulation of Piezoelectric Pump](https://hanruihua.info/images/accelerometer.png)
