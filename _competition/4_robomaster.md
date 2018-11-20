@@ -3,7 +3,7 @@ title: "2017 robomaster"
 collection: talks
 during: "from 09/2016 to 07/2017"
 type: "captain"
-permalink: /talks/4_VSLAM
+permalink: /competition/4_VSLAM
 venue: "" 
 location: "Xiamen University"
 ---
