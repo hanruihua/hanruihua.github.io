@@ -7,7 +7,6 @@ author_profile: true
 ## RoboMaster Robotics Competition [[Official Website]](https://www.robomaster.com/en-US)
 
 <b>[2017 RoboMaster Robotics Competition](https://hanruihua.info/competition/2017robomaster)</b> <br>
-
 ###### Captain of the team     from 09/2016 to 09/2017     National third prize
 
 - RoboMaster requires students to form a robotics team, and independently develop and produce a variety of robots to participate in a large-scale competition
