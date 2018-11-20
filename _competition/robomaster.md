@@ -1,6 +1,6 @@
 ---
 title: "Design of Micro Piezoelectric Accelerator"
-collection: competition
+collection: talks
 during: "from 09/2014 to 09/2015"
 type: "Members"
 permalink: /competition/robomaster
