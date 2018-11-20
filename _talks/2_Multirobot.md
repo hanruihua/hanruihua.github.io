@@ -4,7 +4,7 @@ collection: talks
 type: "Members"
 permalink: /talks/2_Multirobot
 venue: "<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao"
-during:"from 09/2018 to 10/2018"
+during: "from 09/2018 to 10/2018"
 location: ""
 ---
 
