@@ -5,6 +5,8 @@ permalink: /competition/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% for post in site.competition reversed %}
   {% include archive-single-talks.html %}
 {% endfor %}
