@@ -3,11 +3,10 @@ title: "Navigation of Self-driving Bus on Road"
 collection: talks
 type: "talks"
 permalink: /talks/1_VSLAM
-venue: "Southern University of Science and Technology"
+venue: "Shuai Zhang, <b>Ruihua Han</b>"
 date: 2017-08-15
 location: "Shen Zhen, China"
 ---
-
 
 <!--[self-driving bus](https://hanruihua.info/images/self_driving.png)-->
 - This research aim at developing the self-driving system for the bus with exteroceptive sensors including LIDARs and cameras to perform autonomous navigation on the road. 
