@@ -4,7 +4,7 @@ permalink: /competition/
 author_profile: true
 ---
 
-## RoboMaster Robotics Competition
+## RoboMaster Robotics Competition [[Official Website]](https://www.robomaster.com/en-US)
 
 <b>[2017 RoboMaster Robotics Competition](https://hanruihua.info/competition/2017robomaster)</b> <br>
 <b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>National Third prize</i> 
@@ -12,7 +12,7 @@ author_profile: true
 <b>[Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization](IEEEsensor)</b> <br>
 Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Accepted by <b>IEEE sensor 2018</b>.</i>
 
-## Sensor
+## Robocon
 
 <b>[Design of a tri-axial micro piezoelectric accelerometer](MEMS_1)</b><br>
 <b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Published in 2016 Symposium on Piezoelectricity, Acoustic Waves and Device Applications .</i> <b>SPAWDA IEEE, 2016</b>
