@@ -5,7 +5,7 @@ type: "talks"
 permalink: /talks/1_VSLAM
 venue: "Shuai Zhang, <b>Ruihua Han</b>"
 date: 2018-10-01
-location: "Shen Zhen, China"
+location: ""
 ---
 
 <!--[self-driving bus](https://hanruihua.info/images/self_driving.png)-->
