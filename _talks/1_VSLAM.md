@@ -5,6 +5,7 @@ type: "talks"
 permalink: /talks/1_VSLAM
 venue: "Shuai Zhang, <b>Ruihua Han</b>"
 date: 2018-10-01
+date2: 2018-10-05
 location: ""
 ---
 
