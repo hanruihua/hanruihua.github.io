@@ -3,7 +3,7 @@ title: "Navigation of Self-driving Campus Bus on Road"
 collection: talks
 during: "from 08/2017 to present"
 type: "Members"
-permalink: /talks/1_VSLAM
+permalink: /talks/4_VSLAM
 venue: "Shuai Zhang, <b>Ruihua Han</b>, Shuaijun Wang, Fangzhou Han and Qi Hao" 
 location: ""
 ---
