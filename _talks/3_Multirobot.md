@@ -3,7 +3,7 @@ title: "Multi-Robot Localization in Featureless Environment"
 collection: talks
 during: "from 04/2018 to present"
 type: "Members"
-permalink: /talks/2_Multirobot
+permalink: /talks/3_Multirobot
 venue: "<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao"
 ---
 
