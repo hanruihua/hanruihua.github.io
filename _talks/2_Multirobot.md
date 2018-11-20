@@ -4,7 +4,7 @@ collection: talks
 type: "research"
 permalink: /talks/VSLAM
 venue: "Southern University of Science and Technology"
-date: 2018-09-23
+date: 2017-2018
 location: "Shen Zhen, China"
 ---
 
