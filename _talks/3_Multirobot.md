@@ -8,7 +8,7 @@ venue: "<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao"
 ---
 
 <!--[self-driving bus](https://hanruihua.info/images/self_driving.png)-->
-- This research aim to localise a group of robots by the relative observation between two robots in featureless environment where has no fixed landmark
+- This research aims to localise a group of robots by the relative observation between two robots in featureless environment where has no fixed landmark
 - Responsibilities: Developing the decentralized algorithm based on EKF which fuses the odometry and relative observation that derived from the camera to perform the cooperative localization.                 
 
 - The following video demonstrates the experiment in our lab. 

@@ -7,7 +7,7 @@ permalink: /talks/2_Pump
 venue: "<b>Ruihua Han</b>"
 ---
 
-- This research aim to design an ultrasound pump model based on piezoelectric material which can generate a traveling wave to drive fluid when AC voltage applied.
-- Responsibilities: Theoretical derivation and simulation with ANSYS 
+- This research aims to design an ultrasound pump model based on piezoelectric material which can generate a traveling wave to drive fluid when AC voltage applied.
+- Responsibilities: Optimizing the detailed size of the model to obtain a better performance by theoretical derivation and simulation with ANSYS 
 
 ![Simulation of Piezoelectric Pump](https://hanruihua.info/images/pump.png)

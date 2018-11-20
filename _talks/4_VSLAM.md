@@ -9,7 +9,7 @@ location: ""
 ---
 
 <!--[self-driving bus](https://hanruihua.info/images/self_driving.png)-->
-- This research aim to develop the self-driving system for the campus bus with exteroceptive sensors including LIDARs and cameras to perform autonomous navigation on the road. [project page](http://172.18.8.229/en/)
+- This research aims to develop the self-driving system for the campus bus with exteroceptive sensors including LIDARs and cameras to perform autonomous navigation on the road. [project page](http://172.18.8.229/en/)
 - Responsibilities: Developing the algorithm for the localization of the bus with binocular camera based on ORB SLAM and filter algorithm such as EKF, PF.
 
 - The following video demonstrates the processing of binocular video that we collected from the bus to localise it based on ORB-SLAM.
