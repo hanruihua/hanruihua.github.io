@@ -7,7 +7,7 @@ author_profile: true
 ## RoboMaster Robotics Competition [[Official Website]](https://www.robomaster.com/en-US)
 
 <b>[2017 RoboMaster Robotics Competition](https://hanruihua.info/competition/2017robomaster)</b> <br>
-<p margin-top:0; margin-bottom:0;> <font size="2" face="Verdana"> Captain of the team &nbsp; &nbsp; &nbsp; from 09/2016 to 09/2017 &nbsp; &nbsp; &nbsp; National third prize</font> </p>
+<font size="2" face="Verdana"> Captain of the team &nbsp; &nbsp; &nbsp; from 09/2016 to 09/2017 &nbsp; &nbsp; &nbsp; National third prize</font>
 
 - RoboMaster requires students to form a robotics team, and independently develop and produce a variety of robots to participate in a large-scale competition
 - Responsibilities: Developing flight control algorithm based on ROS and DJI Onboard SDK to perform the task of grabing ball. 
