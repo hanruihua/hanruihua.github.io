@@ -1,9 +1,9 @@
 ---
 title: "Design of Micro Piezoelectric Accelerator"
-collection: talks
+collection: competition
 during: "from 09/2014 to 09/2015"
 type: "Members"
-permalink: /talks/1_Accelerator
+permalink: /competition/robomaster
 venue: "<b>Ruihua Han</b>, Hui Zhou and Mahui Xu"
 ---
 
