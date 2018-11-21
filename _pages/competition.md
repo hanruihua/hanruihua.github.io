@@ -14,7 +14,7 @@ author_profile: true
 <b>[2016 RoboMaster Robotics Competition](https://hanruihua.info/competition/2016robomaster)</b><br>
 <font size="2" face="Verdana"> <i><b>Member of the team</b></i> &nbsp; &nbsp; &nbsp; <i><b>from 09/2015 to 08/2016</b></i> &nbsp; &nbsp; &nbsp; <i><b>National second prize</b></i></font>
 - This competition requires students to form a robotics team, and independently develop and produce a variety of robots to participate in a large-scale competition
-- <i>Responsibilities</i>: Programmed the algorithm on the STM32 platform to address the problems including CAN /serial port communication and control (PID) of robots.
+- <i>Responsibilities</i>: Programmed the code on the STM32 platform to address the problems including CAN /serial port communication and control (PID) of robots.
 
 ## ABU Robocon [[Official Website]](https://www.abu.org.my/ABU_Robocon-@-About_ABU_Robocon.aspx)
 <b>[2015 Robocon Robotics Competition](https://hanruihua.info/competition/2015robocon)</b> <br>
