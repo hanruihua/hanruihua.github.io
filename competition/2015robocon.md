@@ -1,10 +1,7 @@
 ---
-title: "Design of Micro Piezoelectric Accelerator"
+title: "2015 ABU Robocon "
 collection: competition
-during: "from 09/2014 to 09/2015"
-type: "Members"
-permalink: /competition/robomaster
-venue: "<b>Ruihua Han</b>, Hui Zhou and Mahui Xu"
+permalink: /competition/2016robocon
 ---
 
 - This competition requires students to build a badminton robot which can play badminton with other robots built by other universities
