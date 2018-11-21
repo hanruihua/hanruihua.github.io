@@ -12,7 +12,9 @@ redirect_from:
 
 * I obtained Bachelor's Degree from [Wuhan University of Technology](http://english.whut.edu.cn/) in Industrial Equipment and Control Engineering, and Master's Degree from [Xiamen University](http://en.xmu.edu.cn/) in Microelectronics and Solid State Electronics. 
 
-* I have been looking for opportunities to pursue graduate study. My research interests lie in the general area of robotics, particularly in the control, simultaneous localization and mapping(SLAM) of the robot. My current research area focuses on the localization of multi-robot which equipped with cameras or laser radars based on the filter algorithm, as well as their applications in the self-driving car.
+* I have been looking for opportunities to pursue graduate study. My research interests lie in the general area of robotics, particularly in the control, simultaneous localization and mapping(SLAM) of the robot. My current research area focuses on the localization of multiple robots which equipped with cameras or laser radars based on the filter algorithm, as well as their applications in the self-driving car.
+
+
 
 
 
