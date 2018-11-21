@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/IEEEsensor
 venue: "IEEE sensor 2018"
 date: 2018-10-23
-citation: 'Shuai Zhang, <b>Ruihua Han</b>,  Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Accepted by IEEEsensor 2018.</i>'
+citation: 'Shuai Zhang, <b>Ruihua Han</b>,  Wankuan Huang, Shuaijun Wang, and Qi Hao. <i>Accepted by IEEEsensor 2018.</i>'
 ---
 
 [[PDF]](IEEEsensor.pdf)
