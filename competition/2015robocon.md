@@ -1,7 +1,7 @@
 ---
 title: "2015 ABU Robocon "
 collection: competition
-permalink: /competition/2016robocon
+permalink: /competition/2015robocon
 ---
 
 - This competition requires students to build a badminton robot which can play badminton with other robots built by other universities
