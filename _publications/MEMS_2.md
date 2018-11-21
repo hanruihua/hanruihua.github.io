@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MEMS_2
 venue: "IEEE SPAWDA 2016"
 date: 2016-10-24
-citation: 'Hui Zhou, <b>Ruihua Han</b>, Mahui Xu and Hang Guo. <i>Published in 2016 Symposium on Piezoelectricity, Acoustic Waves and Device Applications (SPAWDA).</i>'
+citation: 'Hui Zhou, <b>Ruihua Han</b>, Mahui Xu, and Hang Guo. <i>Published in 2016 Symposium on Piezoelectricity, Acoustic Waves and Device Applications (SPAWDA).</i>'
 ---  
 [[PDF]](MEMS_2.pdf)
 
