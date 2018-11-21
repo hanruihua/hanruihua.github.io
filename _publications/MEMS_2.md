@@ -2,7 +2,7 @@
 title: "Study of a piezoelectric accelerometer based on d33 mode"
 collection: publications
 permalink: /publications/MEMS_2
-venue: "IEEE SPAWDA 2016"
+venue: "IEEE SPAWDA "
 date: 2016-10-24
 citation: 'Hui Zhou, <b>Ruihua Han</b>, Mahui Xu, and Hang Guo. <i>Published in 2016 Symposium on Piezoelectricity, Acoustic Waves and Device Applications (SPAWDA).</i>'
 ---  

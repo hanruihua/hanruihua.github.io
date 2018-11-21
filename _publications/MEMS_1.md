@@ -2,7 +2,7 @@
 title: "Design of a tri-axial micro piezoelectric accelerometer"
 collection: publications
 permalink: /publications/MEMS_1
-venue: "IEEE SPAWDA 2016"
+venue: "IEEE SPAWDA"
 date: 2016-10-24
 citation: '<b>Ruihua Han</b>, Jianyan Wang, Mahui Xu, and Hang Guo. <i>Symposium on Piezoelectricity, Acoustic Waves and Device Applications</i>.'
 ---  
