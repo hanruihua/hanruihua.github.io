@@ -4,7 +4,7 @@ collection: talks
 during: "from 08/2017 to present"
 type: "Members"
 permalink: /talks/4_VSLAM
-venue: "Shuai Zhang, <b>Ruihua Han</b>, Shuaijun Wang, Fangzhou Han and Qi Hao" 
+venue: "Shuai Zhang, <b>Ruihua Han</b>, Shuaijun Wang, Fangzhou Han, and Qi Hao" 
 location: ""
 ---
 
