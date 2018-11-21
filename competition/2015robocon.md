@@ -8,4 +8,4 @@ permalink: /competition/2015robocon
 - Responsibilities: Designed and built the mechanical structure of the robot and programmed the code to control the brushless motor. 
 
 - The structure of the robot is shown in the following figure 
-![Simulation of Piezoelectric Pump](https://hanruihua.info/images/robot.png)
+![Simulation of Piezoelectric Pump](https://hanruihua.info/images/robot.jpg)
