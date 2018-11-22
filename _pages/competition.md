@@ -1,5 +1,5 @@
 ---
-title: "Competition"
+title: "Contests"
 permalink: /competition/
 author_profile: true
 ---
