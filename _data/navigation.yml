@@ -6,10 +6,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Researches"
+  - title: "Projects"
     url: /research/
 
-  - title: "Competitions"
+  - title: "Contests"
     url: /competition/    
 
   # - title: "Teaching"
