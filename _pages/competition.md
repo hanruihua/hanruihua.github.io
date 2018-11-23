@@ -29,3 +29,10 @@ author_profile: true
 - The structure of the robot is shown in the following figure 
 ![Badminton robot](https://hanruihua.info/images/robot.jpg)
 
+## National Robot Creative Design Contest
+<b>[2016 National Robot Creative Design Contest](https://hanruihua.info/competition/2016design)</b> <br>
+<font size="2" face="Verdana"> <i><b>Member of the team</b></i> &nbsp; &nbsp; &nbsp; <i><b>from 09/2015 to 01/2016</b></i> &nbsp; &nbsp; &nbsp; <i><b>National first prize</b></i></font>
+- This competition requires students to design a robot with the theme of Intelligent Robot.
+- <i>Responsibilities</i>: Designed and simulated a dental robot based on virtual force feedback technology using SolidWorks.
+- The demonstration of the dental robot is shown in the following video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cLQCqKRa7fI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
