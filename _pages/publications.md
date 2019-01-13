@@ -10,7 +10,7 @@ author_profile: true
 <b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>Submitted to ICRA 2019.</i> 
 
 <b>[Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization](IEEEsensor)</b> <br>
-Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Accepted by <b>IEEE sensor 2018</b>.</i>
+Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Publish in <b>IEEE sensor 2018</b>.</i>
 
 ## Sensor
 
