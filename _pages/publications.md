@@ -6,8 +6,8 @@ author_profile: true
 
 ## Localization
 
-<b>[Decentralized Cooperative Multi-Robot Localization with EKF](Multirobot_localization)</b> <br>
-<b>Ruihua Han</b>, Shengduo Chen, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>Submitted to ICRA 2019.</i> 
+<b>[Factor Graph based Cooperative Localization for Large-Scale Multi-Robot Systems](Multirobot_localization)</b> <br>
+<b>Ruihua Han</b>, Shengduo Chen, Gongjin Lan, Yasheng Bu, Zhijun Lyu and Qi Hao. <i>Submitted to IROS 2019.</i> 
 
 <b>[Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization](IEEEsensor)</b> <br>
 Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Publish in <b>IEEE sensor 2018</b>.</i>
