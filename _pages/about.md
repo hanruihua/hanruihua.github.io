@@ -12,7 +12,7 @@ redirect_from:
 
 * I obtained Bachelor's Degree from [Wuhan University of Technology](http://english.whut.edu.cn/) in Industrial Equipment and Control Engineering, and Master's Degree from [Xiamen University](http://en.xmu.edu.cn/) in Microelectronics and Solid State Electronics. 
 
-* I have been looking for opportunities to pursue graduate study. My research interests lie in the general area of <b>robotics</b> including the localization, mapping and learning. My current research focuses on the <b>cooperative localization of multiple robots </b> equipped with cameras based on the filter algorithm such as EKF, as well as their applications in the autonomous driving. 
+* My research interests lie in the general area of <b>robotics</b> including the localization, mapping and learning. My current research focuses on the <b>cooperative localization of multiple robots </b> equipped with cameras and Lidar based on the filter algorithm such as EKF, as well as their applications in the autonomous driving. 
 
 
 
