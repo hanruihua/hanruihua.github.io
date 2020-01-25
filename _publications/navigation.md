@@ -2,8 +2,6 @@
 title: "Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning"
 collection: publications
 permalink: /publications/navigation
-venue: "ICRA"
-date: 2020-01-24
 citation: '<b>Ruihua Han</b>,  Shengduo Chen, and Qi Hao. <i>Accepted by ICRA 2020.</i>'
 ---
 
