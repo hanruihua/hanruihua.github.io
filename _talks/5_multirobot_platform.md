@@ -11,4 +11,4 @@ location: ""
 - This research aims to build a UWB assisted multi-robot platform to perform localization, mapping and navigation. 
 - <i>Responsibilities</i>: Configure the function including communication, code updates, sensor driver for platform based on ROS. Developing the collision avoidance algorithm based on velocity obstacle (VO) with the uncertainty and noise in the UWB measurement.
 - The following video demonstrates the simulation and experiment of this platform.
-<iframe width="230" height="107" src="https://www.youtube.com/embed/XBJdicgDQRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XBJdicgDQRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
