@@ -1,5 +1,5 @@
 ---
-title: "Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learningn"
+title: "Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning"
 collection: publications
 permalink: /publications/navigation
 venue: "ICRA"
