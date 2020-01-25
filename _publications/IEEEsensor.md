@@ -2,8 +2,7 @@
 title: "Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization"
 collection: publications
 permalink: /publications/IEEEsensor
-venue: "IEEE sensor"
-date: 2018-10-23
+
 citation: 'Shuai Zhang, <b>Ruihua Han</b>,  Wankuan Huang, Shuaijun Wang, and Qi Hao. <i>Accepted by IEEEsensor 2018.</i>'
 ---
 

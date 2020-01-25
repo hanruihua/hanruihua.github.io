@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <b>[Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning](navigation)</b> <br>
-<b>Ruihua Han</b>, Shengduo Chen, Qi Hao. <i>Accepted by <b>ICRA 2020</b>.</i>
+<b>Ruihua Han</b>, Shengduo Chen, Qi Hao. 
 
 <b>[Linear Bayesian Filter based Low-cost UWB Systems for Indoor Mobile Robot Localization](IEEEsensor)</b> <br>
 Shuai Zhang, <b>Ruihua Han</b>, Wankuan Huang, Shuaijun Wang, Qi Hao. <i>Published in <b>IEEE sensor 2018</b>.</i>
