@@ -2,8 +2,8 @@
 title: "Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning"
 collection: talks
 type: "Members"
-permalink: /talks/5_multi-robot_navigation.md
-venue: "<b>Ruihua Han</b>, Shengduo Chen, and Qi Hao" 
+permalink: /talks/5_multirobot_navigation.md
+venue: "<b>Ruihua Han</b>, Shengduo Chesn, and Qi Hao" 
 location: ""
 ---
 
