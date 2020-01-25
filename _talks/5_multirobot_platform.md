@@ -2,7 +2,7 @@
 title: "Multi-Robot Collision Avoidance Platform based on UWB"
 collection: talks
 type: "Members"
-permalink: /talks/5_multirobot_platform.md
+permalink: /talks/5_multirobot_platform
 venue: "<b>Ruihua Han</b>, Shengduo Chen, and Qi Hao" 
 location: ""
 ---
