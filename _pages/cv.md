@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Ruihua Han (韩瑞华)"
+title: "Han Ruihua (韩瑞华)"
 permalink: /cv/
 author_profile: true
 redirect_from:
