@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/IROS
 citation: '<b>Ruihua Han</b>,  Shengduo Chen, and Qi Hao. <i>Submitted in IROS 2020.</i>'
 ---
+[video](https://hanruihua.info/talks/IROS)
 
 ## Abstract
 
