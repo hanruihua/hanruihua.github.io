@@ -1,8 +1,8 @@
 ---
-title: "Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning"
+title: "A Distributed Range-Only Collision Avoidance Approach for Low-cost Large-scale Multi-Robot Systems"
 collection: publications
 permalink: /publications/IROS
-citation: '<b>Ruihua Han</b>,  Shengduo Chen, and Qi Hao. <i>Submitted by IROS 2020.</i>'
+citation: '<b>Ruihua Han</b>,  Shengduo Chen, and Qi Hao. <i>Submitted in IROS 2020.</i>'
 ---
 
 ## Abstract
