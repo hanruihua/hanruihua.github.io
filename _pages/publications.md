@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[A Distributed Range-Only Collision Avoidance Approach for Low-cost Large-scale Multi-Robot Systems](IROS)</b> <br>
+<b>Ruihua Han</b>, Shengduo Chen, Qi Hao. <i>Submitted in <b>IROS 2020</b>.</i>
+
 <b>[Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning](navigation)</b> <br>
 <b>Ruihua Han</b>, Shengduo Chen, Qi Hao. <i>Accepted by <b>ICRA 2020</b>.</i>
 
