@@ -5,6 +5,7 @@ permalink: /publications/navigation
 citation: '<b>Ruihua Han</b>,  Shengduo Chen, and Qi Hao. <i>Accepted by ICRA 2020.</i>'
 ---
 
+![video](https://hanruihua.info/talks/5_multirobot_navigation)
 
 ## Abstract
 
